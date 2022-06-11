@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Junhua, currently a sophomore. 
 - 👀 My research interest is Multimedia computation and networking, which includes
 
-  cv3d, multimodal, RL, edge computing and computer network.
-- 🌱 I’m currently learning OS, database and distributed system, Tiny ML.
+  topics like cv3d, multimodal, RL, edge computing and computer network.
+- 🌱 I’m currently learning OS, DB, distributed system, Tiny ML and KD.
 - ✨ I will apply for phd programs in 24 fall.
 - 📫 How to reach me: 
   - My school email: junhualiu@link.cuhk.edu.cn
