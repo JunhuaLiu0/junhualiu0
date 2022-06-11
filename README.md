@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi, I’m junhua, currently a sophomore. 
-- 👀 I’m interested in Multimedia computation and networking, a vast topic including cv3d, multimodal, reinforcement learning, edge computing and computer network.
-- 🌱 I’m currently reading paper and search for new ideas.
-- ✨ I will apply for phd programs in 24fall.
+- 👋 Hi, I’m Junhua, currently a sophomore. 
+- 👀 My research interest is Multimedia computation and networking, which includes
+- cv3d, multimodal, RL, edge computing and computer network.
+- 🌱 I’m currently learning OS, database and distributed system, Tiny ML.
+- ✨ I will apply for phd programs in 24 fall.
 - 📫 How to reach me: 
-- My school email: junhualiu@link.cuhk.edu.cn
-- My personal email: jeshualiu@gmail.com
-- WeChat: doubleliu0523
+  - My school email: junhualiu@link.cuhk.edu.cn
+  - My personal email: jeshualiu@gmail.com
+  - WeChat: doubleliu0523
