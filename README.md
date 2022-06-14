@@ -13,13 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=junhualiu0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 - 👋 Hi, I’m Junhua, currently a sophomore. 
 - 👀 My research interest is Multimedia computation and networking, which includes
 
   topics like cv3d, multimodal, RL, edge computing and computer network.
 - 🌱 I’m currently learning OS, DB, distributed system, Tiny ML and KD.
-- ✨ I will apply for phd programs in 24 fall.
+- ✨ In 24fall, I will apply for Phd programs in America and Canada.
 - 📫 How to reach me: 
   - My school email: junhualiu@link.cuhk.edu.cn
   - My personal email: jeshualiu@gmail.com
