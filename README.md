@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=junhualiu0&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 - 👋 Hi, I’m Junhua, currently a sophomore. 
-- 👀 My research interest is Multimedia computation and networking, which also includes
+- 👀 My interest is Multimedia computation and networking, which also includes
 
   topics like NeRF/cv3D; Point Cloud, multimodal, RL, edge computing, and CG.
 - 🌱 I’m currently learning OS, DB, distributed robot system, Tiny ML and KD.
