@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Junhua, currently a sophomore. 
 - 👀 My research lies on Multimedia computation and networking, which also includes
 
-  topics like multimodal, RL, edge computing, NeRF/cv3D; SLAM/Point Cloud,, and CG.
+  topics like multimodal, RL, edge computing, NeRF/cv3D; SLAM/Point Cloud, and CG.
 - 🌱 I’m currently learning OS, DB, distributed robot system, Tiny ML and KD.
 - ✨ In 24fall, I will apply for Phd programs in America and Canada.
 - 📫 How to reach me: 
