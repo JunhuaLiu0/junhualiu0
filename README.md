@@ -24,4 +24,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   - My school email: junhualiu@link.cuhk.edu.cn
   - My personal email: jeshualiu@gmail.com
-  - WeChat: doubleliu0523
+  - WeChat: doubleliu0523, welcome come to connect me :)
+  - Personal Website: Junhualiu.ml
